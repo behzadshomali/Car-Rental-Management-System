@@ -1,0 +1,20 @@
+.root{
+    -fx-background-image: url("../images/salesBackground.jpg");
+    -fx-background-size: stretch;
+    
+}
+.label{
+    -fx-font-weight: bold;
+}
+.text-field{
+    -fx-background-color: transparent;
+    -fx-border-radius: 20;
+    -fx-border-width: 1;
+    -fx-border-color: black;
+}
+.radio-button{
+    -fx-font-weight: bold;
+}
+
+
+

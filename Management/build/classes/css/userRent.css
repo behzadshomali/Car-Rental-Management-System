@@ -1,0 +1,31 @@
+.root{
+    -fx-background-image: url("../images/rentBackground.jpg");
+    -fx-background-size: stretch;
+}.label{
+
+    -fx-font-size: 15;
+    -fx-font-family: "Comic Sans MS", cursive, sans-serif;
+    -fx-font-weight: bold;
+}
+
+.label:hover{
+    -fx-text-fill: black;
+    
+    
+}
+
+.radio-button  {
+    -fx-font-family: "Comic Sans MS", cursive, sans-serif;
+    -fx-font-weight: bold;
+}
+
+.radio-button:hover  {
+    -fx-text-fill: black;
+}
+.text-field{
+    -fx-font-family: "Comic Sans MS", cursive, sans-serif;
+    -fx-border-radius: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: linear-gradient(white, whitesmoke , white);
+}
+

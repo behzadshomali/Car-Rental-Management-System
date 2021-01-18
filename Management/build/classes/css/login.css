@@ -1,0 +1,31 @@
+.root{
+    -fx-background-image: url("../images/loginBackground.jpg");
+    -fx-background-size: stretch;
+    
+}
+
+.text-field{
+    -fx-background-color: transparent;
+    -fx-border-width: .7;
+    -fx-border-radius: 20;
+    -fx-border-color: white;
+    -fx-text-fill: white;
+}
+
+.button
+{
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-background-color: #009999;
+    -fx-border-width: .5;
+    -fx-border-color: #009999;
+}
+.button:hover{
+    -fx-background-color: #006666 ;
+    -fx-border-color: #006666;
+}
+
+.label{
+    -fx-text-fill: #009999;
+    -fx-font-size: 30;
+}

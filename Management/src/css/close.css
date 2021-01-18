@@ -1,0 +1,15 @@
+.root{
+    
+}.label{
+
+    -fx-font-size: 20;
+    -fx-text-fill: black;
+    /*-fx-font-weight: bold;*/
+}
+
+/*.label:hover{
+    -fx-text-fill: black;
+    -fx-cursor: hand;
+    
+}*/
+

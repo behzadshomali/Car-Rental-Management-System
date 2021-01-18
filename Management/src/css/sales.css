@@ -1,0 +1,12 @@
+.root{
+    -fx-background-image: url("../images/salesBackground.jpg");
+    -fx-background-size: stretch;
+}.label{
+
+    -fx-font-size: 20;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    
+}
+
+

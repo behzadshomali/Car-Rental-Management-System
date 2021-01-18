@@ -1,0 +1,38 @@
+.root{
+    -fx-background-image: url("../images/salesBackground.jpg");
+    -fx-background-size: stretch;
+}.label{
+
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+}
+
+.label:hover{
+    -fx-text-fill: black;
+
+}
+
+.radio-button{
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+}
+
+.text-field{
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+.text-area{
+    -fx-border-radius: 12;
+    -fx-background-radius: 12;
+}
+
+.text-area .scroll-pane {
+    -fx-background-color: transparent;
+}
+.text-area .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+.text-area .scroll-pane .content{
+    -fx-background-color: transparent;
+}
