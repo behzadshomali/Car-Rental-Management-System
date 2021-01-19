@@ -10,6 +10,8 @@ There exists five different types of rental: 1. Hourly 2. Daily 3. Weekly 4. Mon
 The system employs JSON data format for I/O operations. All data will be loaded and ready-to-use when the system is executed. By clicking on the “save” button, the user makes sure that all his/her changes will be written and stored for further usage.
 
 
+A also need to mention, I devoloped this simple program as my semester-2 final project in the university - Advanced Programming Course (Java)
+
 ## Sample images:
 Following images illustrates some menus of the program. You can also find a demo video of how the program works, [here](https://drive.google.com/file/d/1npdfrvZaMg3U-4HSzx35uhGNTi1-crKI/view?usp=sharing "here")!
 
